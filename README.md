@@ -12,22 +12,22 @@
 
 <div>
   <p align="center">
-    🔭 I’m currently working on **side projects**
+    🔭 I’m currently working on <b>side projects</b>
   </p>
   <p align="center">
-    🌱 I’m currently learning **DB, Testing**
+    🌱 I’m currently learning <b>DB, Testing</b>
   </p>
   <p align="center">
-    👯 I’m looking to collaborate on **Startups and big companies**
+    👯 I’m looking to collaborate on <b>Startups and big companies</b>
   </p>
   <p align="center">
-    😄 Pronouns **He/his**
+    😄 Pronouns <b>He/his</b>
   </p>
   <p align="center">
-    ⚡ Fun fact **I'm an animal lover.**
+    ⚡ Fun fact <b>I'm an animal lover.</b>
   </p>
   <p align="center">
-    🖋️ Fav. quote "**Wether you think you can or you think you can't, you're right**", *Henry Ford*
+    🖋️ Fav. quote "<b>Wether you think you can or you think you can't, you're right</b>", <i>Henry Ford</i>
   </p>
 </div>
 
@@ -67,3 +67,16 @@
 </p>
 
 <hr/>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=EduardoGarciaEnriquez&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=EduardoGarciaEnriquez&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoGarciaEnriquez&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
