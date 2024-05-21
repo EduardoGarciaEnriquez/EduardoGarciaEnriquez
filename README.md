@@ -3,7 +3,7 @@
 
 <!--text animation-->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Eduardo+García!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Ed!;" />
 </h1>
 
 <h3 align="center">A passionate front end developer</h3>
@@ -12,19 +12,19 @@
 
 <div>
   <p align="center">
-    🔭 I’m currently working on <b>side projects</b>
+    🔭 I’m currently working on <b>Side Projects 💻</b>
   </p>
   <p align="center">
-    🌱 I’m currently learning <b>DB, Testing</b>
+    🌱 I’m currently learning <b>DB and Testing ✔️</b>
   </p>
   <p align="center">
-    👯 I’m looking to collaborate on <b>Startups and big companies</b>
+    👯 I’m looking to collaborate on <b>Startups and Big Tech Companies 🏗️</b>
   </p>
   <p align="center">
     😄 Pronouns <b>He/his</b>
   </p>
   <p align="center">
-    ⚡ Fun fact <b>I'm an animal lover.</b>
+    ⚡ Fun fact <b>I'm an animal lover. 🍃</b>
   </p>
   <p align="center">
     🖋️ Fav. quote "<b>Wether you think you can or you think you can't, you're right</b>", <i>Henry Ford</i>
@@ -56,19 +56,16 @@
 </p>
 
 <br/>
-<hr/>
 
 <p align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2 align="center">🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/EduardoGarciaEnriquez/EduardoGarciaEnriquez/output/github-contribution-grid-snake.svg" />
+    <p align="center">
+        <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/EduardoGarciaEnriquez/EduardoGarciaEnriquez/output/github-contribution-grid-snake.svg" />
+    </p>
   
-  <br/><br/><br/>
+  <br/>
 </p>
-
-<hr/>
-
-<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -79,4 +76,4 @@
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoGarciaEnriquez&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<br/><br/>
+<br/>
